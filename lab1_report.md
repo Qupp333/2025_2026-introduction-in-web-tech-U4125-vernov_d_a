@@ -2,11 +2,11 @@ University: [ITMO University](https://itmo.ru/ru/)
 Faculty: [FICT](https://fict.itmo.ru)
 Course: [Введение в веб технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)
 Year: 2025/2026
-Group: [Ваша группа]
-Author: [Фамилия Имя Отчество]
+Group: U4125
+Author: Вернов Дмитрий Андреевич
 Lab: Lab1
 Date of create: 19.09.2026
-Date of finished: [дата защиты]
+Date of finished: 
 
 # Лабораторная работа №1. Основы Docker
 
