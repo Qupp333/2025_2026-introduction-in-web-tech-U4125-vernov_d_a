@@ -388,6 +388,7 @@ Hello from Docker!
 ```text
 http://localhost:5000
 ```
+![Работа Flask-приложения в браузере](images/flask-browser.png)
 
 ### Результат
 
